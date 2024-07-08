@@ -2,6 +2,12 @@
 
 This is a simple TodoList application built using React.
 
+## Deployment Link
+
+The application is deployed and can be accessed at the following link:
+
+[Deployment Link](https://668632d842fbf171f8f4ea18--zesty-bubblegum-134757.netlify.app/)
+
 ## Features
 - Fetch and show todo items from the API: https://jsonplaceholder.typicode.com/todos
 - Add a todo item: Make a POST call to the above URL and save the item in React state. This is a dummy request and won't actually add items to the server, but the request is valid and will return some data.
